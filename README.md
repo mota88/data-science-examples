@@ -1,2 +1,2 @@
 # data-science-examples
-Simple python, spark and R examples for data science
+Simple python, pyspark and R examples for data science
